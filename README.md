@@ -1,5 +1,9 @@
 # cleepme — Automatic Video Clipper (100% Client-Side)
 
+<p align="center">
+  <img src="assets/mockup.png" alt="cleepme Interface Mockup" width="100%">
+</p>
+
 **cleepme** is a web-based, automatic video clipper that analyzes long video files and extracts interesting moments into ready-to-use clips—running **entirely in the browser without any backend**. 
 
 No servers, no databases, no cloud storage, and no APIs. Your videos never leave your device.
